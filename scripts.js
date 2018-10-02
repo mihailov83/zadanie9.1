@@ -8,7 +8,6 @@ function getTriangleArea(a, h) {
         return a * h / 2;
     } else {
         return 'nieprawidlowe dane';
-        console.log('nieprawidlowe dane');
     }
 }
 
